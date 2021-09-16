@@ -1,11 +1,4 @@
-<html>
-    <head>
-
-    </head>
-
-    <body>
-        <script>
-            console.log("Hello Console");
+console.log("Hello Console");
             var x = "100";
             var _x = "5";
             document.write(x - _x)
@@ -23,6 +16,3 @@
            var tes2 = "2 + 3 * 5";
            var hasil = eval(tes2);
            document.write(hasil);
-        </script>
-    </body>>       
-</html>>
